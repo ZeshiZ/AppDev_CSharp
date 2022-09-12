@@ -1,0 +1,17 @@
+C:\Users\zeshi\source\repos\SalesApp\bin\Debug\SalesApp.exe.config
+C:\Users\zeshi\source\repos\SalesApp\bin\Debug\SalesApp.exe
+C:\Users\zeshi\source\repos\SalesApp\bin\Debug\SalesApp.pdb
+C:\Users\zeshi\source\repos\SalesApp\bin\Debug\EntityFramework.dll
+C:\Users\zeshi\source\repos\SalesApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zeshi\source\repos\SalesApp\bin\Debug\EntityFramework.xml
+C:\Users\zeshi\source\repos\SalesApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.csproj.AssemblyReference.cache
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.Properties.Resources.resources
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.csproj.GenerateResource.cache
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.csproj.CoreCompileInputs.cache
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.csproj.CopyComplete
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.exe
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.pdb
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.Migrations.Initial.resources
+C:\Users\zeshi\source\repos\SalesApp\obj\Debug\SalesApp.Form1.resources
